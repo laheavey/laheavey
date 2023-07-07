@@ -1,4 +1,4 @@
-<img align="left" height="150" alt="Lauren Heavey" src="./prof_img.jpg">
+<img align="left" height="200" alt="Lauren Heavey" src="./prof_img.jpg">
 
 ## I'm [Lauren][aboutme]! 👋
 Software engineer, hobby connoisseur, and generally fun person. ✨🤸‍♀️ I'm currently fine-tuning a few [projects][portfolio], learning with a few fun experiments, and looking for new opportunities. 

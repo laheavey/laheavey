@@ -18,6 +18,14 @@ Software engineer, hobby connoisseur, and generally fun person. ✨🤸‍♀️
 <br/>
 
 ##
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-laheavey.vercel.app/api?username=laheavey&hide=stars,issues&count_private=true&hide_border=true&custom_title=Github+Stats" alt="Lauren's GitHub stats"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-laheavey.vercel.app/api/top-langs/?username=laheavey&layout=compact&hide_border=true" alt="Lauren's Top Languages"/>
+</a>
+</p>
+
+##
 
 <br/>
 <p align="center">

@@ -1,6 +1,6 @@
 <img align="left" height="200" alt="Lauren Heavey" src="./prof_img.jpg">
 
-## I'm [Lauren][aboutme]! 👋
+## I'm [Lauren][aboutme]! 🌻
 Software engineer, hobby connoisseur, and generally fun person. ✨🤸‍♀️ I'm currently fine-tuning a few [projects][portfolio], learning with a few fun experiments, and looking for new opportunities. 
 
 <a href="https://www.linkedin.com/in/laheavey/">
@@ -54,7 +54,7 @@ Software engineer, hobby connoisseur, and generally fun person. ✨🤸‍♀️
   <sup>Learning & Practicing:</sup><br/>
   <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat-square" alt="C Sharp Badge">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" alt="Docker Badge">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat-square" alt="Kubernetes Badge">
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js Badge">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=flat-square" alt="Playwright Badge">
 </p>
 
